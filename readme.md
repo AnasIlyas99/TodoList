@@ -16,7 +16,7 @@ with an intuitive interface and popup functionality for task details.
 
 \*Adding a Task
 
---rite the Name of the task in the input Bar.
+--Write the Name of the task in the input Bar.
 --Click the "Add Task" button to Add the Task in the list. 
 
 \*Deleting a Task
